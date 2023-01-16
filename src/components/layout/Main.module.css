@@ -1,11 +1,16 @@
 .main-layout {
   margin-top: 5rem;
-  border: 1px solid blue;
+  width: 100%;
 }
 
 .main-container {
-  border: 1px solid red;
   max-width: 70%;
   margin: 0 auto;
-  margin-top: 3rem;
+  margin-top: 10rem;
+}
+
+@media (max-width: 640px) {
+  .main-container {
+    max-width: 100%;
+  }
 }

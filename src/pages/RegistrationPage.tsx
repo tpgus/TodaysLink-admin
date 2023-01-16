@@ -1,6 +1,8 @@
-const Registration = () => {
+import Registration from "../components/link-registration/Registration";
+
+const RegistrationPage = () => {
   //로그인 체크
-  return <div>링크 등록 페이지</div>;
+  return <Registration />;
 };
 
-export default Registration;
+export default RegistrationPage;

@@ -1,0 +1,58 @@
+.container {
+  width: 100%;
+}
+
+.input-wrap {
+  font-weight: bold;
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  align-items: center;
+}
+
+label {
+  display: block;
+  width: 20%;
+}
+
+input {
+  display: block;
+  padding: 0.5rem;
+  width: 100%;
+}
+
+.date-wrap {
+  width: auto;
+}
+
+.day-wrap {
+  display: flex;
+  width: 30%;
+  display: flex;
+  align-items: center;
+}
+
+.time-wrap {
+  width: 30%;
+  display: flex;
+  align-items: center;
+}
+
+.date-label {
+  width: 40%;
+}
+
+.time-checkbox {
+  width: auto;
+  margin-left: 2rem;
+}
+
+.time-label {
+  width: 10%;
+  text-align: center;
+}
+
+.time-input {
+  width: auto;
+}
