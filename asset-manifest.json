@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodaysLink-admin/static/css/main.f23c1ac4.css",
+    "main.js": "/TodaysLink-admin/static/js/main.f9b24c6c.js",
+    "index.html": "/TodaysLink-admin/index.html",
+    "main.f23c1ac4.css.map": "/TodaysLink-admin/static/css/main.f23c1ac4.css.map",
+    "main.f9b24c6c.js.map": "/TodaysLink-admin/static/js/main.f9b24c6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f23c1ac4.css",
+    "static/js/main.f9b24c6c.js"
+  ]
+}
