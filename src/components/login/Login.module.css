@@ -1,0 +1,51 @@
+.login-container {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 10%;
+}
+
+p {
+  color: #ff0000;
+}
+
+.login__form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.input-wrap--password {
+  margin-top: 1rem;
+}
+
+.label--id {
+  display: block;
+  text-align: start;
+}
+
+.label--password {
+  display: block;
+  text-align: start;
+}
+
+.input--id {
+  padding: 0.25rem 1rem;
+  display: block;
+}
+
+.input--password {
+  padding: 0.25rem 1rem;
+  display: block;
+}
+
+.login__btn {
+  margin-top: 2rem;
+  padding: 0.5rem 2rem;
+}

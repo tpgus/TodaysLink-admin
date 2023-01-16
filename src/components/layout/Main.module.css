@@ -1,0 +1,11 @@
+.main-layout {
+  margin-top: 5rem;
+  border: 1px solid blue;
+}
+
+.main-container {
+  border: 1px solid red;
+  max-width: 70%;
+  margin: 0 auto;
+  margin-top: 3rem;
+}
