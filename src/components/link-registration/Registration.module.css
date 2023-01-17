@@ -7,52 +7,38 @@
   margin-top: 1rem;
   display: flex;
   flex-direction: row;
-  width: 50%;
+  width: 100%;
   align-items: center;
-}
-
-label {
-  display: block;
-  width: 20%;
 }
 
 input {
   display: block;
   padding: 0.5rem;
-  width: 100%;
+  width: 50%;
 }
 
-.date-wrap {
-  width: auto;
+.registration-btn {
+  padding: 1rem 1rem;
+  display: block;
+  margin: 0 auto;
+  margin-top: 3rem;
+  border: transparent;
+  font-weight: bold;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
 }
 
-.day-wrap {
-  display: flex;
-  width: 30%;
-  display: flex;
-  align-items: center;
+.registration-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
-.time-wrap {
-  width: 30%;
-  display: flex;
-  align-items: center;
-}
-
-.date-label {
-  width: 40%;
-}
-
-.time-checkbox {
-  width: auto;
-  margin-left: 2rem;
-}
-
-.time-label {
-  width: 10%;
-  text-align: center;
-}
-
-.time-input {
-  width: auto;
+.winner__label,
+.title__label,
+.subtitle__label,
+.link__label,
+.image__label,
+.winner__label {
+  display: block;
+  width: 10rem;
 }

@@ -1,0 +1,28 @@
+.tag {
+  background-color: #aaa;
+  border-radius: 0.375rem;
+  padding: 0 0.5rem;
+}
+
+.tags__ul {
+  display: flex;
+  height: auto;
+}
+
+.input-wrap {
+  font-weight: bold;
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.tag__label {
+  display: block;
+  width: 10%;
+}
+
+.select {
+  padding: 0.5rem 0.5rem;
+  margin-left: 1rem;
+}

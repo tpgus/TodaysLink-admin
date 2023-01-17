@@ -1,0 +1,26 @@
+.input-wrap {
+  flex-direction: column;
+  width: 100%;
+}
+
+.warning__input {
+}
+
+.warning__btn {
+  margin-left: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+.warning__label {
+  display: block;
+  width: 10rem;
+}
+
+.warning__wrap {
+  width: 100%;
+  font-weight: bold;
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
